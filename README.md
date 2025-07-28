@@ -1,0 +1,2 @@
+# instalador
+app del instalador
