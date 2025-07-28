@@ -1,7 +1,4 @@
-descarga:
-"que es esta wea" 
-"main.exe"
-
+lee "que es esta wea" antes de ejecutarlo
 
 Gracias por descargarlo
 
